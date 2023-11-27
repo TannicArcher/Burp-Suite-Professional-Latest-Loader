@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Can-Retransform-Classes: true
+Main-Class: com.tannicarcher.burp.KeygenForm
+Premain-Class: com.tannicarcher.burp.Loader
+
